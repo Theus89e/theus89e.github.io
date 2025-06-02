@@ -1,0 +1,54 @@
+{
+  "categorias": [
+    {
+      "nome": "Salgados",
+      "imagem": "img/salgados.png"
+    },
+    {
+      "nome": "Doces",
+      "imagem": "img/doces.png"
+    },
+    {
+      "nome": "Lanches",
+      "imagem": "img/lanches.png"
+    },
+    {
+      "nome": "Trufas",
+      "imagem": "img/trufas.png"
+    },
+    {
+      "nome": "Picolés",
+      "imagem": "img/picoles.png"
+    },
+    {
+      "nome": "Refrigerantes",
+      "imagem": "img/refrigerantes.png"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "categoria": "Trufas",
+      "nome": "Trufa de Chocolate",
+      "descricao": "Trufa artesanal com recheio cremoso de chocolate.",
+      "preco": 3.50,
+      "imagem": "https://images.unsplash.com/photo-1606312619344-d30d47c3b4e3"
+    },
+    {
+      "id": 2,
+      "categoria": "Salgados",
+      "nome": "Coxinha de Frango",
+      "descricao": "Coxinha crocante com recheio suculento de frango desfiado.",
+      "preco": 5.00,
+      "imagem": "https://images.unsplash.com/photo-1613145993481-4b148fcb1f57"
+    },
+    {
+      "id": 3,
+      "categoria": "Refrigerantes",
+      "nome": "Coca-Cola Lata",
+      "descricao": "Refrigerante gelado, 350ml.",
+      "preco": 4.50,
+      "imagem": "https://images.unsplash.com/photo-1610878180933-d4a3a32ed497"
+    }
+  ]
+}
