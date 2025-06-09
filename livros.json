@@ -1,0 +1,182 @@
+{
+  "Ficção Científica": [
+    {
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "ano": 1965,
+      "descricao": "Uma saga épica em um planeta desértico onde política, religião e ecologia se entrelaçam."
+    },
+    {
+      "titulo": "Neuromancer",
+      "autor": "William Gibson",
+      "ano": 1984,
+      "descricao": "Um clássico do cyberpunk que explora inteligência artificial e realidade virtual."
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Isaac Asimov",
+      "ano": 1951,
+      "descricao": "Uma tentativa de preservar o conhecimento humano durante a queda de um império galáctico."
+    }
+  ],
+  "Fantasia": [
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1954,
+      "descricao": "A jornada épica para destruir o Um Anel e derrotar Sauron."
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "ano": 1997,
+      "descricao": "Um jovem descobre que é um bruxo e começa sua vida na escola de magia Hogwarts."
+    },
+    {
+      "titulo": "Mistborn: O Império Final",
+      "autor": "Brandon Sanderson",
+      "ano": 2006,
+      "descricao": "Uma sociedade dominada por um tirano imortal é ameaçada por uma jovem com poderes mágicos."
+    }
+  ],
+  "Romance": [
+    {
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "ano": 1813,
+      "descricao": "Um romance sobre amor e convenções sociais na Inglaterra do século XIX."
+    },
+    {
+      "titulo": "Como Eu Era Antes de Você",
+      "autor": "Jojo Moyes",
+      "ano": 2012,
+      "descricao": "A história de uma mulher que cuida de um homem tetraplégico e suas consequências emocionais."
+    },
+    {
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Emily Brontë",
+      "ano": 1847,
+      "descricao": "Um romance gótico sobre paixão e vingança nas charnecas inglesas."
+    }
+  ],
+  "Terror": [
+    {
+      "titulo": "It: A Coisa",
+      "autor": "Stephen King",
+      "ano": 1986,
+      "descricao": "Um grupo de amigos enfrenta um mal antigo que retorna a cada 27 anos."
+    },
+    {
+      "titulo": "O Iluminado",
+      "autor": "Stephen King",
+      "ano": 1977,
+      "descricao": "Um homem enlouquece ao ser o zelador de um hotel isolado e assombrado."
+    },
+    {
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "ano": 1897,
+      "descricao": "O clássico romance sobre o famoso vampiro e sua chegada à Inglaterra."
+    }
+  ],
+  "Suspense/Thriller": [
+    {
+      "titulo": "Garota Exemplar",
+      "autor": "Gillian Flynn",
+      "ano": 2012,
+      "descricao": "Uma mulher desaparece e seu marido se torna o principal suspeito."
+    },
+    {
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "ano": 2003,
+      "descricao": "Um simbologista investiga um assassinato que leva a um segredo milenar."
+    },
+    {
+      "titulo": "Antes de Dormir",
+      "autor": "S.J. Watson",
+      "ano": 2011,
+      "descricao": "Uma mulher acorda todos os dias sem lembrar do passado e descobre segredos sobre sua vida."
+    }
+  ],
+  "Não Ficção": [
+    {
+      "titulo": "Sapiens: Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "ano": 2011,
+      "descricao": "Uma análise da história da espécie humana desde os primórdios até o presente."
+    },
+    {
+      "titulo": "O Poder do Hábito",
+      "autor": "Charles Duhigg",
+      "ano": 2012,
+      "descricao": "Explora como os hábitos funcionam e como podemos mudá-los."
+    },
+    {
+      "titulo": "A Coragem de Ser Imperfeito",
+      "autor": "Brené Brown",
+      "ano": 2012,
+      "descricao": "Um convite à vulnerabilidade como caminho para a realização pessoal."
+    }
+  ],
+  "Biografia": [
+    {
+      "titulo": "Steve Jobs",
+      "autor": "Walter Isaacson",
+      "ano": 2011,
+      "descricao": "A biografia oficial do fundador da Apple, baseada em entrevistas e fontes primárias."
+    },
+    {
+      "titulo": "O Diário de Anne Frank",
+      "autor": "Anne Frank",
+      "ano": 1947,
+      "descricao": "Relato real de uma adolescente escondida durante a ocupação nazista nos Países Baixos."
+    },
+    {
+      "titulo": "Longa Caminhada até a Liberdade",
+      "autor": "Nelson Mandela",
+      "ano": 1994,
+      "descricao": "Autobiografia do líder sul-africano e sua luta contra o apartheid."
+    }
+  ],
+  "História": [
+    {
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "ano": 1988,
+      "descricao": "Explora os conceitos fundamentais do tempo, espaço e o universo."
+    },
+    {
+      "titulo": "Armas, Germes e Aço",
+      "autor": "Jared Diamond",
+      "ano": 1997,
+      "descricao": "Explica o desenvolvimento das civilizações com base em fatores geográficos e ambientais."
+    },
+    {
+      "titulo": "O Mundo de Ontem",
+      "autor": "Stefan Zweig",
+      "ano": 1942,
+      "descricao": "Memórias da Europa antes das guerras mundiais, escritas por um intelectual austríaco exilado."
+    }
+  ],
+  "Infantil": [
+    {
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "ano": 1943,
+      "descricao": "Um conto filosófico sobre amizade, amor e a essência da vida."
+    },
+    {
+      "titulo": "Matilda",
+      "autor": "Roald Dahl",
+      "ano": 1988,
+      "descricao": "Uma menina superdotada enfrenta pais negligentes e uma diretora cruel."
+    },
+    {
+      "titulo": "Onde Vivem os Monstros",
+      "autor": "Maurice Sendak",
+      "ano": 1963,
+      "descricao": "A jornada de um menino travesso por uma terra de monstros fantásticos."
+    }
+  ]
+}
